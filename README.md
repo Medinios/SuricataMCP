@@ -7,8 +7,8 @@ SuricataMCP is a Model Context Protocol Server that allows MCP clients to autono
 <details>
   <summary>▶ Click to watch the demo</summary>
 
-  <a href="[https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtu.be/QnIT_DnSMTI)" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/White.png" alt="Demo Video" style="max-width: 100%; margin-top: 10px;" />
+  <a href="[https://youtu.be/QnIT_DnSMTI](https://youtu.be/QnIT_DnSMTI)" target="_blank">
+    <img src="https://youtu.be/QnIT_DnSMTI" alt="Demo Video" style="max-width: 100%; margin-top: 10px;" />
   </a>
 
 </details>
