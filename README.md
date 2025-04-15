@@ -3,7 +3,7 @@
 
 # SuricataMCP 🚀
 
-SuricataMCP is a Model Context Protocol Server that allows MCP clients to autonomously use suricata for network traffic analysis.It enables programmatic interaction with Suricata through tools like get_suricata_version, get_suricata_help, and get_alerts_from_pcap_file.
+SuricataMCP is a Model Context Protocol Server that allows MCP clients to autonomously use suricata for network traffic analysis. It enables programmatic interaction with Suricata through tools like get_suricata_version, get_suricata_help, and get_alerts_from_pcap_file.
 
 
 ## 📰 Full Guide on Medium
