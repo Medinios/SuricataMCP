@@ -97,6 +97,7 @@ To extend Suricata with your own detection rules:
 
 ## ⚠️ Disclaimer
 We are not affiliated with the official Suricata project or the OISF (Open Information Security Foundation). SuricataMCP is an independent integration built for personal use inside Cursor.
+Example pcap was taken from [PCAP-ATTACK](https://github.com/sbousseaden/PCAP-ATTACK)
 
 ---
 ## 🤝 Contributors
