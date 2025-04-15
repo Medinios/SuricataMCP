@@ -1,0 +1,15 @@
+We will start by downloading the suricata msi from their official website: https://suricata.io/download/ - https://www.openinfosecfoundation.org/download/windows/Suricata-7.0.10-1-64bit.msi
+
+We also need to install npcap if not already installed: https://npcap.com/#download
+https://npcap.com/dist/npcap-1.81.exe
+
+we then copy from C:\Windows\System32\Npcap:
+1.	Wpcap.dll
+2.	Packet.dll
+To C:\Program Files\Suricata
+
+Now we are going to add the rules we want to invoke:
+e.g: https://rules.emergingthreats.net/open/suricata-7.0/emerging.rules.zip
+
+we will copy the rules inside to the C:\Program Files\Suricata\rules folder.
+
