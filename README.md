@@ -6,11 +6,10 @@ SuricataMCP is a Model Context Protocol Server that allows MCP clients to autono
 
 [![Watch the demo](https://img.youtube.com/vi/QnIT_DnSMTI/hqdefault.jpg)](https://youtu.be/QnIT_DnSMTI)
 
-
 ## 📰 Full Guide on Medium
 
 For your convenience, we created a full Medium article that walks you through how to install and use SuricataMCP with Cursor step by step.
-[Supercharging Cursor with SuricataMCP: Network Security at Your Fingertips]()
+[Supercharging Cursor with SuricataMCP: Network Security at Your Fingertips](https://medium.com/@mediniosam/supercharging-cursor-with-suricatamcp-network-security-at-your-fingertips-e8f7e2db4094)
 
 ---
 
