@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/medinios-suricatamcp-badge.png)](https://mseep.ai/app/medinios-suricatamcp)
+
 ![Logo](https://cdn-images-1.medium.com/max/500/1*Spf4ED6gaJWuYZzD03rJig.jpeg)
 
 # SuricataMCP 🚀
